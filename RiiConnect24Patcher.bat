@@ -138,7 +138,7 @@ if "%1"=="-preboot" set /a preboot_environment=1
 
 set FilesHostedOn_Beta=https://patcher.rc24.xyz/update/RiiConnect24-Patcher_BETA/v1
 set FilesHostedOn_Stable=https://patcher.rc24.xyz/update/RiiConnect24-Patcher/v1
-set CheckNUS.Domain=http://ccs.cdn.sho.rc24.xyz
+set CheckNUS.Domain=http://ccs.shop.wii.com
 set useragent=--user-agent "RiiConnect24 Patcher Windows v%version%"
 
 
