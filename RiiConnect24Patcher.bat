@@ -19,7 +19,7 @@ echo	The program is starting...
 
 :: ===========================================================================
 :: RiiConnect24 Patcher for Windows
-set version=1.5.2
+set version=1.5.3
 :: AUTHORS: KcrPL
 :: ***************************************************************************
 :: Copyright (c) 2018-2023 KcrPL, RiiConnect24 and it's (Lead) Developers
